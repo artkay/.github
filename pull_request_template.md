@@ -1,5 +1,7 @@
-- [ ] The pull request is complete according to the Definition of Done
-  - [ ] The pull request includes automated tests that prove the correctness of introduced changes
-  - [ ] Functionality that cannot be tested automatically has been tested manually
+- [ ] The pull request is complete according to the [Definition of Done](https://sites.google.com/leviy.com/development/development/definition-of-done)
+  - [ ] Acceptance criteria in the ticket have been met
+  - [ ] Automated tests are written according to the [test plan](https://docs.google.com/document/d/106bwyTS-gIrT7edLW4_5pCl6DSDaZBEMiiyBw1za0R8/edit#heading=h.5ybg7xjjzlkj)
+  - [ ] The documentation is up-to-date
+  - [ ] Deployment automation includes newly introduced environment variables and credentials are added to the credentials.fact file of all servers
 - [ ] The pull request has a descriptive title that describes what has changed, and provides enough context for the changelog
 - [ ] When applicable, the pull request title starts with the issue number
